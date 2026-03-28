@@ -694,8 +694,8 @@ export default function Home() {
               <Server size={14} className="text-ink" />
             </div>
             <div>
-              <span className="font-mono font-bold text-white text-sm">DevBoard</span>
-              <span className="text-muted text-xs font-mono ml-2">v1.24</span>
+              <span className="font-mono font-bold text-white text-sm">DevBoards</span>
+              <span className="text-muted text-xs font-mono ml-2">v1.1.1</span>
             </div>
           </div>
           <div className="flex items-center gap-3 text-xs font-mono text-muted">
