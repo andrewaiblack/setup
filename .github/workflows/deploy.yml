@@ -21,7 +21,7 @@ jobs:
           host: 100.103.4.25
           username: andrwblck
           key: ${{ secrets.SSH_PRIVATE_KEY }}
-script: |
+    script: |
             export NVM_DIR="$HOME/.nvm"
             [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
             cd ~/projects/setup
