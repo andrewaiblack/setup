@@ -695,7 +695,7 @@ export default function Home() {
             </div>
             <div>
               <span className="font-mono font-bold text-white text-sm">DevBoards</span>
-              <span className="text-muted text-xs font-mono ml-2">Dno</span>
+              <span className="text-muted text-xs font-mono ml-2">Dnoup</span>
             </div>
           </div>
           <div className="flex items-center gap-3 text-xs font-mono text-muted">
